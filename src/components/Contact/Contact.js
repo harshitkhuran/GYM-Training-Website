@@ -12,10 +12,7 @@ const Contact = () => (
     </Container>
     <footer>
       <p>
-        Copyright &copy; © 2020 Training Studio - Designed by{" "}
-        <a href="https://templatemo.com/" target="_blank" rel="noreferrer">
-          TemplateMo
-        </a>
+       Made By Harshit Khurana
       </p>
     </footer>
   </section>
